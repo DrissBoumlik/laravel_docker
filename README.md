@@ -13,5 +13,7 @@
 4. `docker-compose up -d`
 5. `cd src`
 6. `composer install`
-8. `php artisan serve`
-9. visit http://localhost:8088/
+7. `cp .env.example .env`
+8. `php artisan key:generate`
+9. `php artisan serve`
+10. visit http://localhost:8088/
