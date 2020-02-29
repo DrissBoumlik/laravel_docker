@@ -15,5 +15,4 @@
 6. `composer install`
 7. `cp .env.example .env`
 8. `php artisan key:generate`
-9. `php artisan serve`
 10. visit http://localhost:8088/
