@@ -1,6 +1,6 @@
 # This is a laravel app deployed in docker
 
-##Prerequisites
+## Prerequisites
 * Php >= 7.3
 * composer
 * Laravel 6.x
