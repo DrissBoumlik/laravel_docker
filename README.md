@@ -15,4 +15,5 @@
 6. `composer install`
 7. `cp .env.example .env`
 8. `php artisan key:generate`
-10. visit http://localhost:8088/
+9. Visit http://localhost:8088
+10. If you would like to change the port check docker-compose.yml nginx configuration line 11.
