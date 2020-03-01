@@ -1,12 +1,12 @@
 # This is a laravel app deployed in docker
 
-## Prerequisites
+## Requirements
 * Git
 * Docker
-* ##### If you want to work with you files from your local machine you will need :
-  * Php >= 7.3
-  * Composer
-  * Laravel 6.x
+- If you want to work with the files from your local machine you will need :
+    * Php >= 7.2
+    * Composer
+    * Laravel 6.x
 
 ## Steps
 1. `git clone https://github.com/DrissBoumlik/laravel_docker.git`
